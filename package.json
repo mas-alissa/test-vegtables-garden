@@ -1,0 +1,15 @@
+{
+  "name": "unit-test-vegtables-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myFunctions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
